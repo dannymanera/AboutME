@@ -1,2 +1,3 @@
-# aboutme
-This is a page about me.
+# About Me
+## My name is Daniel Manera.
+#### What you need to know about me.
